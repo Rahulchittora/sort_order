@@ -1,6 +1,13 @@
-another check!
+nother check!
 
 yes
 
 change 1 rishi
+<<<<<<< HEAD
+
+change 2 rahul
+=======
 change 1 kushagra
+Change 2 from Rahul
+
+>>>>>>> 6394b6567ad168d5e36db14e2f8273f9c6dc3e52
